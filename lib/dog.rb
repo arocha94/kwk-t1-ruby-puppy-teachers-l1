@@ -8,7 +8,7 @@ class Dog
     @new = new
   end 
   
-  def name 
+  def initialize(name) 
     @name = name 
   end 
   
