@@ -12,6 +12,11 @@ class Dog
   end 
   
   def self.all
+    
+  end 
+  
+  def self.name
+    
   end 
   
 end
