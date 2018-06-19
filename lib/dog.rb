@@ -15,8 +15,4 @@ class Dog
     @@all = []
   end 
   
-  def self.name
-    puts dog.name
-  end 
-  
 end
