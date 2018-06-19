@@ -1,7 +1,7 @@
 class Dog 
   
   def all
-    @all = all 
+    @@all = all 
   end
   
   def new
@@ -9,7 +9,7 @@ class Dog
   end 
   
   def initialize(name) 
-    @name = name 
+    @self.name = name 
   end 
   
 end
