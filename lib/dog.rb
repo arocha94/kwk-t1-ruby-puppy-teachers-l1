@@ -4,7 +4,7 @@ class Dog
     @@all = all 
   end
   
-  def new
+  def self.new
     @new = new
   end 
   
